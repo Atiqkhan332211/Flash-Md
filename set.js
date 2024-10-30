@@ -23,8 +23,8 @@ module.exports = {
     URL: process.env.BOT_MENU_LINKS || 'https://static.animecorner.me/2023/08/op2.jpg',
     MODE: process.env.BOT_MODE || "private",
     PM_PERMIT: process.env.PM_PERMIT || 'on',
-    HEROKU_APP_NAME: process.env.HEROKU_APP_NAME,flashmd12
-    HEROKU_API_KEY: process.env.HEROKU_API_KEY,HRKU-a0741397-ef05-47b8-b2b9-0d15568a8362
+    HEROKU_APP_NAME: process.env.HEROKU_APP_NAME,"flashmd12"
+    HEROKU_API_KEY: process.env.HEROKU_API_KEY,"HRKU-a0741397-ef05-47b8-b2b9-0d15568a8362"
     WARN_COUNT: process.env.WARN_COUNT || '3',
     PRESENCE: process.env.PRESENCE || 'online',
     ADM: process.env.ANTI_DELETE || 'on',
